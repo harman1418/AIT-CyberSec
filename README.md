@@ -24,4 +24,4 @@ During this internship, I explored various domains of cybersecurity, focusing on
 - **Harman** - [harman1418](https://github.com/harman1418)
 
 ---
-*This repository is part of my academic requirement for my final year BCA project/internship curriculum.*
+*This repository is part of my academic requirement for my final year BTech project/internship curriculum.*
